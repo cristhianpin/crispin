@@ -1,0 +1,202 @@
+[33mcommit 73c7a55242f2fc1ef30ca098c416094fb42f669d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: murraco <mauriurraco@gmail.com>
+Date:   Tue Nov 19 14:27:44 2019 -0300
+
+    Update dependencies
+
+[33mcommit c58c599977237e911f3e202b4115404be85a9a7f[m
+Merge: 1b361b6 b598c17
+Author: Mauricio Urraco <mauriurraco@gmail.com>
+Date:   Mon Oct 28 17:25:58 2019 -0300
+
+    Merge pull request #8 from ktbee/restore-outline-accessibility
+    
+    Remove styles that prevent users from seeing default browser focus state
+
+[33mcommit b598c17fe47d2d382bf76b992c9f3cfbfa99136a[m
+Author: Katie Broida <kbroida@gmail.com>
+Date:   Sun Oct 27 11:25:10 2019 -0400
+
+    Remove styling that prevents users from seeing default browser focus state styling
+
+[33mcommit 1b361b6d44cd461bafc9533c2ccf4b001942bd4f[m
+Author: murraco <mauriurraco@gmail.com>
+Date:   Thu Oct 24 11:46:16 2019 -0300
+
+    Update icons style
+
+[33mcommit b854474fc0df185aa977c2e469dcc2447d452317[m
+Author: murraco <mauriurraco@gmail.com>
+Date:   Thu Oct 24 11:17:49 2019 -0300
+
+    Update about.html
+
+[33mcommit 38e18268d2efda5134d79d5e3e67772340ebdd23[m
+Author: murraco <mauriurraco@gmail.com>
+Date:   Thu Oct 24 11:17:23 2019 -0300
+
+    Update _config.yml
+
+[33mcommit b86b431b06292d9d6f5edfd1dff7311892f5d18d[m
+Merge: 98a37df c14e5ea
+Author: Mauricio Urraco <mauriurraco@gmail.com>
+Date:   Tue Oct 22 16:53:32 2019 -0300
+
+    Merge pull request #7 from ssiyad/patch-1
+    
+    Update gulpfile.js
+
+[33mcommit c14e5ea158ce69a649ff96c98695e23e6a84c7d9[m
+Author: Sabu Siyad <sabu.siyad.p@gmail.com>
+Date:   Tue Oct 22 23:07:50 2019 +0530
+
+    Update gulpfile.js
+    
+    Fix Ruby version mismatches with bundle
+
+[33mcommit 98a37df1567d295ad55381faa426306a6d92131a[m
+Author: murraco <mauriurraco@gmail.com>
+Date:   Wed Jun 19 11:58:11 2019 -0300
+
+    Update favicon.png
+
+[33mcommit 9d85645544917ed767c3d90fa90ae964d3f91087[m
+Author: murraco <mauriurraco@gmail.com>
+Date:   Wed Jun 19 11:55:10 2019 -0300
+
+    Remove _site folder
+
+[33mcommit d491aeb7b736f73ebbd012a4682859745a33e4e6[m
+Author: murraco <mauriurraco@gmail.com>
+Date:   Wed Jun 19 11:52:04 2019 -0300
+
+    Update .gitignore
+
+[33mcommit 310f83e8847b9f21c4ff756d9c54662c31d0315b[m
+Author: murraco <mauriurraco@gmail.com>
+Date:   Wed Jun 12 10:17:46 2019 -0300
+
+    Update package.json
+
+[33mcommit d55fb61e1d216ab44762afbd17b9a6cc5468b9da[m
+Author: Mauricio Urraco <mauriurraco@gmail.com>
+Date:   Wed Jun 12 10:16:47 2019 -0300
+
+    Update README.md
+
+[33mcommit b2c7bbe3fef589add8c300e221b78c865eb7db32[m
+Author: murraco <mauriurraco@gmail.com>
+Date:   Wed Jun 12 10:09:46 2019 -0300
+
+    Update _config.yml
+
+[33mcommit 391bfdbe20b522d439a4fbe6069b0950c7023c84[m
+Author: murraco <mauriurraco@gmail.com>
+Date:   Wed Jun 12 10:05:04 2019 -0300
+
+    Update README.md
+
+[33mcommit 630cc1955acfd5bbcc38c0430059d924b77871ee[m
+Author: murraco <mauriurraco@gmail.com>
+Date:   Wed Jun 12 10:00:46 2019 -0300
+
+    Add Gemfile and ruby version
+
+[33mcommit 99fa6114aa44b5eefbba21dab8282dd5382d2671[m
+Author: Mauricio Urraco <mauriurraco@gmail.com>
+Date:   Wed Jun 12 09:19:46 2019 -0300
+
+    Update README.md
+
+[33mcommit aa2bb292fdb530ce98d0e01bb8d4ab1f27e286e8[m
+Author: Mauricio Urraco <mauriurraco@gmail.com>
+Date:   Tue Jun 11 15:48:19 2019 -0300
+
+    Update README.md
+
+[33mcommit 7321088400b53eaf4bc4c1fa83ec42061d6d09b8[m
+Author: murraco <mauriurraco@gmail.com>
+Date:   Mon Jun 10 15:21:51 2019 -0300
+
+    Update package.json
+
+[33mcommit cf99bb794bc722a7b86c793665ab04936d55a132[m
+Author: Mauricio Urraco <mauriurraco@gmail.com>
+Date:   Sat Jun 8 14:01:35 2019 -0300
+
+    Update README.md
+
+[33mcommit 03b6d7096ed642364e2afef7102d44d6013a3441[m
+Author: murraco <mauriurraco@gmail.com>
+Date:   Tue May 14 14:53:42 2019 -0300
+
+    Update screenshot.png
+
+[33mcommit b88d69cb8b402e93850647889f297b719dd115b0[m
+Author: Mauricio Urraco <mauriurraco@gmail.com>
+Date:   Tue May 14 14:05:46 2019 -0300
+
+    Update README.md
+
+[33mcommit bb717501e094b02de3c4a85a0cfebe343a184c1f[m
+Merge: 51b832d 653bbbd
+Author: Mauricio Urraco <mauriurraco@gmail.com>
+Date:   Tue May 14 14:04:41 2019 -0300
+
+    Merge pull request #1 from jsdelivrbot/master
+    
+    RawGit is shutting down, replace it with jsDelivr
+
+[33mcommit 51b832d47beb37b6bc4e433b089df92647f9a9e2[m
+Author: murraco <mauriurraco@gmail.com>
+Date:   Tue May 14 13:57:42 2019 -0300
+
+    Update header.html
+
+[33mcommit 8ecd9b8ab6862c0ac41a836528b575f239afb021[m
+Author: murraco <mauriurraco@gmail.com>
+Date:   Tue May 14 13:34:06 2019 -0300
+
+    Update index.html
+
+[33mcommit b22e413648e8a9a63393bf5e83d280c01007abb6[m
+Author: Mauricio Urraco <mauriurraco@gmail.com>
+Date:   Sat Jan 19 09:00:58 2019 -0300
+
+    Update about.html
+
+[33mcommit 6b68c3c851026f5bc485138398b4f56381974323[m
+Author: Mauricio Urraco <mauriurraco@gmail.com>
+Date:   Sat Jan 19 08:59:15 2019 -0300
+
+    Update _config.yml
+
+[33mcommit 653bbbd61ae6a148962728c121e2fc02287cc5d0[m
+Author: jsDelivr Bot <contact@jsdelivr.com>
+Date:   Sat Dec 8 13:17:33 2018 +0100
+
+    Replace RawGit with jsDelivr
+
+[33mcommit 02bba4de9458fd4e9c5b63a256690c4611ba3599[m
+Author: Mauricio Urraco <mauriurraco@gmail.com>
+Date:   Fri Dec 1 23:15:49 2017 -0300
+
+    Update README.md
+
+[33mcommit 5b6767aafe647220ceb817141f1869cd701bd725[m
+Author: Mauricio Urraco <mauriurraco@gmail.com>
+Date:   Thu Nov 16 14:31:24 2017 -0300
+
+    Add code
+
+[33mcommit 136e33914d3f6db65f8067a298c72b3ed2dc989e[m
+Author: Mauricio Urraco <mauriurraco@gmail.com>
+Date:   Thu Nov 16 14:30:31 2017 -0300
+
+    Create README.md
+
+[33mcommit 8049de8e3a99941de31192abe0407310b36c3bd3[m
+Author: Mauricio Urraco <mauriurraco@gmail.com>
+Date:   Wed Nov 15 22:45:14 2017 -0300
+
+    Initial commit
