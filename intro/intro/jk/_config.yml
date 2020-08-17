@@ -5,9 +5,12 @@ description:
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: crhistian pin
+username: cristian pin
 user_description: Soy estudiante de la carrera de Software, siempre buscando por nuevos conocimientos en la materia. Me gustaria arender nuevo prgramas en el transcurso de la carrera.
 user_title: Estudiante de Software
+
+user_Estudios Realizados: Mi vida como estudiante comenzo en el jardin -Pedacitos de Pintores, siguiendo a la escuela -America Unida, y el colegio -Cayetano Tarruell, y actualmente cruzando en la Universidad de Guayaquil
+user_Acerca de mi: Mi nombre completo es Cristhian Joel Pin Reyes naci el 29 de Abril de 2002, soy una persona que le gusta aprender a cada momento tengo como hobby rapear, jugar, leer, y ber bideos. Me considero alguien que siempre busca la perfección es ñas cpsas que hace, detesto perder. 
 email: Cristhianpin92@gmail.com
 twitter_username: ""
 github_username:  
